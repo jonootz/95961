@@ -88,3 +88,24 @@ MadCap|dropDownHotspot
 	color: #006600;
 }
 
+@media NEW
+{
+	p
+	{
+		font-variant: normal;
+		vertical-align: baseline;
+		text-decoration: none;
+		background-color: #00ffff;
+	}
+}
+
+@media CustomRed
+{
+	body
+	{
+		font-variant: normal;
+		vertical-align: baseline;
+		text-decoration: none;
+	}
+}
+
